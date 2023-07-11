@@ -34,3 +34,5 @@ gem "jekyll-sitemap"
 
 # Update some dependencies bsaed on depdendabot
 gem "nokogiri", ">= 1.13.4"
+
+gem "webrick", "~> 1.8"
